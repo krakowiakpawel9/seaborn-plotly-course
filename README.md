@@ -1,3 +1,3 @@
-# seaborn-plotly-course
-
-Repozytorium jest częścią kursu [Wizualizacje danych w języku Python - Seaborn + Plotly](https://www.udemy.com/course/wizualizacje-danych-python/?couponCode=GITHUB) dostępnego na platformie Udemy.com
+## [e-smartdata.org](https://e-smartdata.org/)
+### Kurs: [Interaktywne wizualizacje danych w języku Python -  Plotly (8.5h)](https://e-smartdata.teachable.com/p/interaktywne-wizualizacje-danych-w-jezyku-python-plotly)
+Repozytorium jest częścią kursu [Interaktywne wizualizacje danych w języku Python -  Plotly (8.5h)](https://e-smartdata.teachable.com/p/interaktywne-wizualizacje-danych-w-jezyku-python-plotly) dostępnym na platformie [e-smartdata.org](https://e-smartdata.org/)
